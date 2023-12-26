@@ -1,0 +1,19 @@
+.nav {
+    font-size: 14px;
+}
+
+.nav_list {
+    display: flex;
+    gap: 40px;
+
+    
+}
+
+li>a {
+    font-family: $font-main;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: 0.7px;
+}
