@@ -36,3 +36,9 @@
     left: 50%;
     transform: translate(-50%, 0%);
 }
+.header_footer {
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   gap: 30px;
+}
